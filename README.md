@@ -22,8 +22,8 @@
 
 - 🔭 Universidade UnIA (Eng Informático) ...
 - 🌱 Estudando tecnologias | Fullstack Javasript com Node.js, React & React Native | design gráfico & UI-UX
-- 👯 Meu melhor amigo em código difícies da vida -> Google (kkk)
-- 🤔 Ajuda e aprender com coias mais complexas - 70% Coding x 20% Networking x 10% Branding  
+- 👯 Meu melhor amigo é o criador depois eu!
+- 🤔 Ajuda e aprender com coias mais complexas - rule 60 30 10  
 - 💬 Faça-me uma questão nas minhas redes socias 
 - 📫 Envia um E-mail:jambapedrojoao@gmail.com 
 - 😄 - Já percebeu o quanto é fantastico aprender soluções que possam ser usadas no dia-a-dia? Muito massa, show! é a minha maior motivação.
